@@ -393,6 +393,15 @@
 
     <string name="sorting_restore_default">استعادة الافتراضي</string> <!-- TODO: machine translated | EN: Restore Default -->
 
+    <!-- Filter -->
+    <string name="filter_filter">تصفية</string>
+
+    <string name="filter_all_label">الكل</string>
+    <string name="filter_photos_label">الصور</string>
+    <string name="filter_videos_label">مقاطع الفيديو</string>
+
+    <string name="filter_placeholder">لا توجد ملفات تطابق عامل التصفية هذا</string>
+
     <!-- Video Player -->
     <string name="video_player_play">تشغيل</string> <!-- TODO: machine translated | EN: Play -->
     <string name="video_player_pause">إيقاف مؤقت</string> <!-- TODO: machine translated | EN: Pause -->
