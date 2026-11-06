@@ -59,6 +59,7 @@ android {
     buildTypes {
         getByName("debug") {
             isDebuggable = true
+            applicationIdSuffix = ".filtertest"
         }
 
         getByName("release") {
